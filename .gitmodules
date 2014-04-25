@@ -1,0 +1,3 @@
+[submodule "wavebender"]
+	path = wavebender
+	url = git@github.com:zacharydenton/wavebender.git

@@ -1,7 +1,9 @@
-start = 10
+import math
+
+start = 20
 final = 200
 
-end_time = 10
+end_time = 20
 k = (final - start) / end_time
 
 def val_at_time(time):

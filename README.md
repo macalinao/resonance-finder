@@ -5,11 +5,11 @@ A tool to help you find the resonance of objects in your room. Make sure you hav
 
 ![Resonant Frequency](http://imgs.xkcd.com/comics/resonance.png)
 
-# Setup
+## Setup
 
 You need to install the [Wavebender][wavebender] library before doing anything.
 
-# Usage
+## Usage
 Playing the resonant frequency of an object is simple with these 3 steps:
 
 1. **Find when the sweeper reaches resonance.** Run `python sweeper.py | aplay` and a stopwatch simultaneously. When you reach resonance, record the time on your stopwatch.
@@ -19,3 +19,7 @@ Playing the resonant frequency of an object is simple with these 3 steps:
 Now you can troll people by shaking their desks/room/anything!
 
 [wavebender]: https://github.com/zacharydenton/wavebender
+
+## License
+
+ISC

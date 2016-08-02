@@ -1,4 +1,5 @@
-The ISC License (ISC)
+The ISC License
+
 Copyright (c) 2015 Ian Macalinao
 
 Permission to use, copy, modify, and/or distribute this software for
